@@ -10,8 +10,9 @@
     - CSS 외부 링크 💋
     - 특수 효과 👍
 + 깃으로 관리😒아이콘은 윈도우키;
++ 깃허브 페이지 사용해서 배포(Deploy)함.
 
-구글링크
-[Google](https://google.com)
+이미지갤러리배포
+[배포](https://galfer9.github.io/ImageGallery/)
 
 
